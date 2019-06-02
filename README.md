@@ -1,0 +1,1 @@
+# Pythpn-Veri-Bilimine-Giris
