@@ -1,1 +1,1 @@
-# Pythpn-Veri-Bilimine-Giris
+# Python-Veri-Bilimine-Giris
